@@ -7,8 +7,7 @@ packages <- c(
   "here",
   "readxl",
   "openxlsx",
-  "janitor",
-  "sf"
+  "janitor"
 )
 
 pacman::p_load(
